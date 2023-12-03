@@ -20,17 +20,17 @@
 
  🛠️ Previous Projects.......
   #### Security Engineering Project:
-    - Timesheet Security Assessment
-       - **GitHub Repository:** [TimeSheets Threat Model](https://github.com/krillavilla/TimeSheets-Threat-Model)
-       - **Duration:** Nov 2022 - Dec 2022
-       - **Status:** Finished
-  
-  - Nation-State Cyber Attack Response
-    - **GitHub Repository:** [Responding to a Nation-State Cyber Attack](https://github.com/krillavilla/Responding-to-a-Nation-State-Cyber-Attack)
-    - **Status:** Paused
-    
+   - Timesheet Security Assessment
+      - **GitHub Repository:** [TimeSheets Threat Model](https://github.com/krillavilla/TimeSheets-Threat-Model)
+      - **Duration:** Nov 2022 - Dec 2022
+      - **Status:** Finished
+     
+   - Nation-State Cyber Attack Response
+      - **GitHub Repository:** [Responding to a Nation-State Cyber Attack](https://github.com/krillavilla/Responding-to-a-Nation-State-Cyber-Attack)
+      - **Status:** Paused
+      
   #### Ethical Hacking Project:
-    - ExampleCorp Security Audit
+   - ExampleCorp Security Audit
       - **GitHub Repository:** [Audit_ExampleCorp](https://github.com/krillavilla/Audit_ExampleCorp)
       - **Duration:** Aug 2022 - Sep 2023
       - **Status:** Finished
