@@ -1,6 +1,6 @@
 ### 👋🏼 What's Sup! My name is Kashad Turner-Warren 
 
- 📖 My Journal.....
+ 📖 My Journal
   -  😥 I have been been unemployed since June 2022.
   -  💔 I am tired being rejected by hiring managers like a guy asking a girl out on a date
   -  👨🏽‍💼 Instead of being unemployed, I gave myself work
@@ -11,14 +11,14 @@
     - Projects on book called "MATH FOR SECURITY" by Daniel Reilly
     - loading......
 
- 💁 What my attentions behind it.....
+ 💁 What my attentions behind it
   - Fight against AI social engineering, AI malware, AI Trojans, and any other cyber threats utilized by AI toolkits.
 
- 💁 Why.....
+ 💁 Why
   - Hackers are abusing AI toolsets, and I want to do something about it.
 
 
- 🛠️ Previous Projects.......
+ 🛠️ Previous Projects
   #### Security Engineering Project:
    - Timesheet Security Assessment
       - **GitHub Repository:** [TimeSheets Threat Model](https://github.com/krillavilla/TimeSheets-Threat-Model)
