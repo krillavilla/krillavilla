@@ -49,7 +49,13 @@
   - CI/CD Pipelines, Monitoring & Logging
     - **GitHub Repository:** [Auto-Deploy Superpowers](https://github.com/krillavilla/Give-Your-Application-Auto-Deploy-Superpowers)
     - **Status:** Paused
-         
+  
+ 🤝 Open Source Contributions
+  - I am interested getting involved in open sources projects.
+
+ 📬 Contact
+  - **LinkedIn:** [LinkedIn Page](https://www.linkedin.com/in/krillavilla/)
+
  🚀 Skills
   - **Languages:** Python, Java, 
   - **Technologies:** Git, Linux, Jetbrains
@@ -57,12 +63,6 @@
   - **Cloud Providers:** AWS, Azure, Nutanix
   - **Containers:** Docker, Kubernetes  
   - **Infrastructure As Code:** YAML, JSON, CloudFormation
-  
- 🤝 Open Source Contributions
-  - I am interested getting involved in open sources projects.
-
- 📬 Contact
-  - **LinkedIn:** [LinkedIn Page](https://www.linkedin.com/in/krillavilla/)
 
 
 <!--
