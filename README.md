@@ -29,27 +29,27 @@
     - **GitHub Repository:** [Responding to a Nation-State Cyber Attack](https://github.com/krillavilla/Responding-to-a-Nation-State-Cyber-Attack)
     - **Status:** Paused
     
-#### Ethical Hacking Project:
-  - ExampleCorp Security Audit
-    - **GitHub Repository:** [Audit_ExampleCorp](https://github.com/krillavilla/Audit_ExampleCorp)
-    - **Duration:** Aug 2022 - Sep 2023
+  #### Ethical Hacking Project:
+    - ExampleCorp Security Audit
+      - **GitHub Repository:** [Audit_ExampleCorp](https://github.com/krillavilla/Audit_ExampleCorp)
+      - **Duration:** Aug 2022 - Sep 2023
+      - **Status:** Finished
+
+  #### Cloud DevOps Projects:
+  - Deploy Static Website on AWS
+    - **GitHub Repository:** [Deploy Static Website on AWS](https://github.com/krillavilla/Deploy-Static-Website-on-AWS)
+    - **Duration:** May 2022 - June 2022
     - **Status:** Finished
 
-#### Cloud DevOps Projects:
-- Deploy Static Website on AWS
-  - **GitHub Repository:** [Deploy Static Website on AWS](https://github.com/krillavilla/Deploy-Static-Website-on-AWS)
-  - **Duration:** May 2022 - June 2022
-  - **Status:** Finished
-
-- Deploy High-Availability Web App on AWS
-  - **GitHub Repository:** [Deploy a high-availability web app using CloudFormation](https://github.com/krillavilla/Deploy-a-high-availability-web-app-using-CloudFormation)
-  - **Duration:** June 2022 – July 2022
-  - **Status:** Finished
-   
-- CI/CD Pipelines, Monitoring & Logging
-  - **GitHub Repository:** [Auto-Deploy Superpowers](https://github.com/krillavilla/Give-Your-Application-Auto-Deploy-Superpowers)
-  - **Status:** Paused
-       
+  - Deploy High-Availability Web App on AWS
+    - **GitHub Repository:** [Deploy a high-availability web app using CloudFormation](https://github.com/krillavilla/Deploy-a-high-availability-web-app-using-CloudFormation)
+    - **Duration:** June 2022 – July 2022
+    - **Status:** Finished
+     
+  - CI/CD Pipelines, Monitoring & Logging
+    - **GitHub Repository:** [Auto-Deploy Superpowers](https://github.com/krillavilla/Give-Your-Application-Auto-Deploy-Superpowers)
+    - **Status:** Paused
+         
 - 🚀 Skills
   - **Languages:** Python, Java, 
   - **Technologies:** Git, Linux, Jetbrains
