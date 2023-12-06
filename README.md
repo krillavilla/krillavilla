@@ -24,8 +24,6 @@ I need to fight against hackers that utilize AI toolsets to steal money and/or d
 
 💁 Hackers are abusing AI toolsets, and I want to do something about it.
 
-👨🏽‍💼 Coming from an IT service desk background. I am familiar with AWS and Azure Cloud, Linux (Debian, Ubuntu), Penetration Testing, and DevOps tools and terminology. I received training in Cyber Security bootcamps and Udacity Nanodegree programs in Cloud DevOps, Security Engineer, Ethical Hacking, and Cloud DevOps utilizing Microsoft Azure. 
-
 🚀  I'm currently working on [Math For Security](http://github.com/dreilly369/AppliedMathForSecurityBook)
 
 🧠  I'm learning Applied Math using Python in Cyber Security toolsets
