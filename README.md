@@ -28,7 +28,7 @@ I need to fight against hackers that utilize AI toolsets to steal money and/or d
 
 🧠  I'm learning Applied Math using Python in Cyber Security toolsets
 
-🤝  I'm open to collaborating on anything Cyber Security, AI, DevOps, Cloud
+🤝  I'm open to collaborating on anything Security Engineer, Pentesting, AI, DevOps, Cloud
 
                     
  🛠️ Previous Projects
