@@ -9,9 +9,6 @@ and I've been repeatedly turned down. After my thyroidectomy surgery on August 2
 
 I'm not talking about entrepreneurship or starting a business; I'm weary of being turned down for jobs and I want to give myself work to do.
 
-I decided going back to school full-time to gain the foundation
-I need to fight against hackers that utilize AI toolsets to steal money and/or data from the community.
-
 -------
 📖 Continuing...
 -------
