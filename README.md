@@ -13,6 +13,16 @@ I decided going back to school full-time to gain the foundation
 I need to fight against hackers that utilize AI toolsets to steal money and/or data from the community.
 
 -------
+📖 My Journal Contin...
+-------
+
+One of the career highlights for me was leading the "Timesheet Security Assessment" project from November 2022 to December 2022. In this Security Engineering initiative, I conducted a comprehensive threat model analysis on timesheet systems, ensuring robust defenses against potential cyber threats. The GitHub repository, "TimeSheets Threat Model," showcases the project's documentation and findings.
+
+This project allowed me to demonstrate my expertise in security engineering and showcased my ability to assess and enhance the security posture of critical systems. Completing it successfully boosted my confidence in the field, despite facing challenges. The experience of mitigating security risks in a practical scenario was invaluable.
+
+Moreover, my commitment to continuous learning is evident in my current pursuit of a full-time Computer Science degree at Arizona State University. My ongoing project, "Math For Security," involves applying mathematical concepts to strengthen cybersecurity defenses against AI-based attacks. I am enthusiastic about collaborating on security, DevOps, and AI projects, reflecting my dedication to addressing emerging challenges in the technology landscape.
+
+-------
 
 🔭 Studying CS at Arizona State University Full-Time
 
