@@ -13,7 +13,7 @@ I decided going back to school full-time to gain the foundation
 I need to fight against hackers that utilize AI toolsets to steal money and/or data from the community.
 
 -------
-📖 My Journal Contin...
+📖 Continuing...
 -------
 
 One of the career highlights for me was leading the "Timesheet Security Assessment" project from November 2022 to December 2022. In this Security Engineering initiative, I conducted a comprehensive threat model analysis on timesheet systems, ensuring robust defenses against potential cyber threats. The GitHub repository, "TimeSheets Threat Model," showcases the project's documentation and findings.
