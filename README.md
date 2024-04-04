@@ -4,10 +4,10 @@
 -------
 📖 My Journal
 -------
-Since mid-2022, I've had numerous interviews with top companies such as Choice Hotel, American Express, and Redhat for entry-level security engineer or DevOps roles and have repeatedly been turned down. 
-After my thyroidectomy surgery in August 2023, I decided to give myself a job.
+Since mid-2022, I have been tirelessly applying for entry-level security engineer or DevOps roles at top companies such as Choice Hotel, American Express, and Redhat. 
+Unfortunately, I have been repeatedly turned down. After my successful thyroidectomy surgery in August 2023, I decided to take matters into my own hands by creating a job for myself. 
 
-I'm not talking about entrepreneurship or starting a business; I'm weary of being turned down for jobs, and I want to give myself work to do.
+I am not talking about entrepreneurship or starting a business. Instead, I am determined to give myself something to do and take control of my career, as I am tired of being rejected by companies that do not recognize my worth.
 
 -------
 📖 Continuing...
