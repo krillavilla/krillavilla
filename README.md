@@ -4,24 +4,25 @@
 -------
 📖 My Journal
 -------
-Since mid-2022, I have been tirelessly applying for entry-level security engineer or DevOps roles at top companies such as Choice Hotel, American Express, and Redhat. 
-Unfortunately, I have been repeatedly turned down. After my successful thyroidectomy surgery in August 2023, I decided to take matters into my own hands by creating a job for myself. 
+Since mid-2022, I have been tirelessly applying for entry-level security engineer or DevOps roles at top companies such as Choice Hotel, American Express, and Redhat. I refused to give up.
 
-I am not talking about entrepreneurship or starting a business. Instead, I am determined to give myself something to do and take control of my career, as I am tired of being rejected by companies that do not recognize my worth.
+Instead, I used my successful thyroidectomy surgery in August 2023 as a catalyst by taking matters into my own hands by creating a job for myself. 
+
+I am not talking about entrepreneurship or starting my own business. Instead, I am driven to invest in myself by taking control of my career and finding my purpose and vision. In hindsight, those companies rejecting me were a blessing in disguise because they allowed me to understand how they viewed me.
 
 -------
 📖 Continuing...
 -------
 
-One of the career highlights for me was leading the "Timesheet Security Assessment" project from November 2022 to December 2022. In this Security Engineering initiative, I conducted a comprehensive threat model analysis on timesheet systems, ensuring robust defenses against potential cyber threats. The GitHub repository, "TimeSheets Threat Model," showcases the project's documentation and findings.
+One of the highlights of my career was leading the "Timesheet Security Assessment" project from November 2022 to December 2022. As part of this Security Engineering initiative, I conducted a thorough threat model analysis on timesheet systems to ensure robust defenses against potential cyber threats. The "TimeSheets Threat Model" GitHub repository showcases the project's documentation and findings.
 
-This project allowed me to demonstrate my expertise in security engineering and showcased my ability to assess and enhance the security posture of critical systems. Completing it successfully boosted my confidence in the field, despite facing challenges. The experience of mitigating security risks in a practical scenario was invaluable.
+This project allowed me to demonstrate my expertise in security engineering and showcased my ability to assess and enhance the security posture of critical systems. Successfully completing it boosted my confidence in the field, despite facing challenges. The experience of mitigating security risks in a practical scenario was invaluable.
 
-Moreover, my commitment to continuous learning is evident in my current pursuit of a full-time Computer Science degree at Arizona State University. My ongoing project, "Math For Security," involves applying mathematical concepts to strengthen cybersecurity defenses against AI-based attacks. I am enthusiastic about collaborating on security, DevOps, and AI projects, reflecting my dedication to addressing emerging challenges in the technology landscape.
+Furthermore, my commitment to continuous learning is evident in my current pursuit of a full-time Mathematics degree at Arizona State University. My ongoing project, "Math For Security," involves applying mathematical concepts to strengthen cybersecurity defenses against AI-based attacks. I am enthusiastic about collaborating on security, DevOps, and AI projects, reflecting my dedication to addressing emerging challenges in the technology landscape.
 
 -------
 
-🔭 Studying CS at Arizona State University Full-Time
+🔭 Studying Mathematics at Arizona State University Full-Time
 
 👨🏽‍💼 Seeking new Opportunties
 
