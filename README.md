@@ -24,11 +24,11 @@ Furthermore, my commitment to continuous learning is evident in my current pursu
 
 🔭 Studying Mathematics at Arizona State University Full-Time
 
-👨🏽‍💼 Seeking new Opportunties
+👨🏽‍💼 Seeking new Opportunities
 
-🧠 Learning Can Mathematics be used in the realm of Cyber Security. 
+🧠 Learning: Can Mathematics be used in the realm of Cyber Security? 
 
-🌱 Noobie in Python, Java, numpy, panda etc.
+🌱 Noobie in Python, Java, numpy, panda, etc.
 
 💁 Hackers are abusing AI toolsets, and I want to do something about it.
 
@@ -41,8 +41,13 @@ Furthermore, my commitment to continuous learning is evident in my current pursu
                     
  🛠️ Previous Projects
  -------
+  #### Enterprise Security Engineer udacity's Program: 
+   - Securing the Perimeter
+      - **GitHub Repository:** [Securing the Perimeter](https://github.com/krillavilla/Securing-the-Perimeter/tree/main)
+      - **Duration:** April 2024 - May 2024
+      - **Status:** Finished
  
-  #### Security Engineering Project:
+  #### Security Engineer udacity's Program:
    - Timesheet Security Assessment
       - **GitHub Repository:** [TimeSheets Threat Model](https://github.com/krillavilla/TimeSheets-Threat-Model)
       - **Duration:** Nov 2022 - Dec 2022
@@ -52,13 +57,13 @@ Furthermore, my commitment to continuous learning is evident in my current pursu
       - **GitHub Repository:** [Responding to a Nation-State Cyber Attack](https://github.com/krillavilla/Responding-to-a-Nation-State-Cyber-Attack)
       - **Status:** Paused
       
-  #### Ethical Hacking Project:
+  #### Ethical Hacking  udacity's Program:
    - ExampleCorp Security Audit
       - **GitHub Repository:** [Audit_ExampleCorp](https://github.com/krillavilla/Audit_ExampleCorp)
       - **Duration:** Aug 2022 - Sep 2023
       - **Status:** Finished
 
-  #### Cloud DevOps Projects:
+  #### Cloud DevOps  udacity's Program:
   - Deploy Static Website on AWS
     - **GitHub Repository:** [Deploy Static Website on AWS](https://github.com/krillavilla/Deploy-Static-Website-on-AWS)
     - **Duration:** May 2022 - June 2022
