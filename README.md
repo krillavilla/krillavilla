@@ -42,6 +42,11 @@ Furthermore, my commitment to continuous learning is evident in my current pursu
  🛠️ Previous Projects
  -------
   #### Enterprise Security Engineer udacity's Program: 
+   - FedF1rst Security Assessment
+      - **GitHub Repository:** [FedF1rst Security Assessment](https://github.com/krillavilla/FedF1rst-Security-Assessment)
+      - **Duration:** May 2024 
+      - **Status:** In Progress
+  
    - Securing the Perimeter
       - **GitHub Repository:** [Securing the Perimeter](https://github.com/krillavilla/Securing-the-Perimeter/tree/main)
       - **Duration:** April 2024 - May 2024
