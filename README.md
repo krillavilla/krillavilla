@@ -41,13 +41,19 @@ Furthermore, my commitment to continuous learning is evident in my current pursu
                     
  🛠️ Previous Projects
  -------
-  #### Enterprise Security Engineer udacity's Program: 
+   #### Enterprise Security Engineer Udacity's Program: 
+   - Data Security Analysis in Online Payment Processing
+      - **GitHub Repository:** [Data Security Analysis in Online Payment Processing](https://github.com/krillavilla/Data-Security-Analysis-in-Online-Payment-Processing/blob/main/README.md)
+      - **Duration:** Early June 2024 
+      - **Status:** Finished 
+
+  #### Enterprise Security Engineer Udacity's Program: 
    - CryptoV4ULT-Enterprise-Security-Assessment
       - **GitHub Repository:** [CryptoV4ULT-Enterprise-Security-Assessment](https://github.com/krillavilla/CryptoV4ULT-Enterprise-Security-Assessment)
       - **Duration:** Early June 2024 
       - **Status:** Finished 
       
-  #### Enterprise Security Engineer udacity's Program: 
+  #### Enterprise Security Engineer Udacity's Program: 
    - FedF1rst Security Assessment
       - **GitHub Repository:** [FedF1rst Security Assessment](https://github.com/krillavilla/FedF1rst-Security-Assessment)
       - **Duration:** Late May 2024 
@@ -58,7 +64,7 @@ Furthermore, my commitment to continuous learning is evident in my current pursu
       - **Duration:** April 2024 - May 2024
       - **Status:** Finished
  
-  #### Security Engineer udacity's Program:
+  #### Security Engineer Udacity's Program:
    - Timesheet Security Assessment
       - **GitHub Repository:** [TimeSheets Threat Model](https://github.com/krillavilla/TimeSheets-Threat-Model)
       - **Duration:** Nov 2022 - Dec 2022
