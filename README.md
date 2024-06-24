@@ -41,7 +41,8 @@ Furthermore, my commitment to continuous learning is evident in my current pursu
                     
  🛠️ Previous Projects
  -------
-    #### Data Structure And Algorithms Udacity's Program: 
+ 
+   #### Data Structure And Algorithms Udacity's Program: 
    - Show Me the Data Structures
       - **GitHub Repository:** [Show Me the Data Structures](https://github.com/krillavilla/Data_Structures_And_Algorithms/blob/main/unscramble_cs_problems.md)
       - **Duration:** July 2024 
