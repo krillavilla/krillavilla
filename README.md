@@ -46,12 +46,6 @@ Now, my focus has expanded to:
 
 ---
 
-## 🤝 Let's Connect
-🔗 [LinkedIn](https://linkedin.com/in/krillavilla)  
-📧 kjtwarren88@gmail.com  
-
----
-
 ## 🧠 What Drives Me
 Hackers are weaponizing AI. I'm here to fight back—using **mathematics**, **machine learning**, and **cyber defense** to secure the systems that power our world.
 
